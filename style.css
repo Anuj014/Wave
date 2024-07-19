@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+img{
+    max-width: 100%;
+}
+section{
+    margin-top: 40px;
+    margin: 3rem 0;
+}
+.txt{
+    font-family:Oswald, system-ui, -apple-system, Segoe UI, roboto, Helvetica Neue, Noto Sans, Liberation Sans, arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;;
+    font-size: 3.7rem;
+    font-weight: bolder;
+}
+
+.btton1{
+    background-color: #2f3f9f;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.875rem 1.75rem;
+}
+
+.btton2{
+    background-color: #a30000;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.875rem 1.75rem;
+}
+
+.row>*{
+    margin-top: 3rem;
+}
+
+
+.circle{
+    font-size: 36px;
+    background: #f2e9ac;
+    border-radius: 10px;
+}
+
+.window{
+    font-size: 36px;
+    background: #caf0c7;
+    border-radius: 10px; 
+}
+
+.aeroplan{
+    font-size: 36px;
+    background: #ffe9f3;
+    border-radius: 10px;
+}
+.clock{
+    font-size: 36px;
+    background: #cdf7f6;
+    border-radius: 10px;    
+}
+
+.al-l{
+    text-align: left;
+}
+
+.learn{
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.photo{
+    margin-bottom: 6%;
+
+}
+.photo:last-child{
+    margin-bottom: 0;
+}
+.gallery-col{
+    width: 32%;
+    flex-direction: column;
+
+}
+
+.icon-5{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    border-radius: 50%;
+    font-size: 38px;
+    margin: 0;
+    padding: 1.3rem;
+}
+.bt1{
+background: #f2e9ac;
+}
+
+.bt2{
+    background: #caf0c7;
+}
+.bt3{
+    background: #ffe9f3;
+}
+.bt4{
+    background: #cdf7f6;
+}
+
+.n-1{
+    background-color: #e1ebfa;
+}
+
+.s-1{
+    background: #e1ebfa; 
+    padding: 70px 3rem 3rem ;
+}
+
+.s-5{
+    padding: 3rem;
+    background: #f2fafa;
+}
+.s-6{
+    padding: 7rem;
+}
+
+.s-7{
+    padding: 3rem; 
+    background: #fcf6f0;
+}
+.s-9{
+    padding: 3rem;
+    background: #fcf6f0;
+}
+.s-11{
+    background-color: rgb(225, 227, 226);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
